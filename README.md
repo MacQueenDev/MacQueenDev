@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @MacQueenDev
-- 👀 I’m interested in Developing
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ?, chat me
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: ...
+<h1> Olá, Eu sou o Marcos !!</h1>
 
 <!---
 MacQueenDev/MacQueenDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
